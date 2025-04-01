@@ -1,5 +1,5 @@
 import './App.css'
-import Navbar from './navbar'
+import Navbar from './Navbar'
 import Dropdown from './Dropdown'
 import DropZone from './Dropzone'
 
