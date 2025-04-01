@@ -1,23 +1,22 @@
 # 🐱 PETodo List – A task to-do list with feelings! | React Widget project for Hackiethon2025
 
-This is a reusable and interactive React.js widget built as part of HackMelbourne's **Hackiethon2025**.  
-This interactive to-do list was designed to improve productivity in a creative and user-friendly way, featuring a virtual pet cat whose mood changes based on users' task habits.
+This reusable and interactive to-do list was designed to improve productivity in a creative and user-friendly way, featuring a virtual pet cat whose mood changes based on users' task habits.
 
-> 🏆 Built for the **HackMelbourne's Hackiethon2025 Widget Challenge** for demonstrating innovation, usability, and front-end development skills.
+> 🏆 React.js widget built for the **HackMelbourne's Hackiethon2025 Widget Challenge** for demonstrating innovation, usability, and front-end development skills.
 
 ---
 
 ## 🚀 Live Demo - Click to try PETodo! (hover on the right-hand-side's purple block under the title and drag our widget down to any free space)
 
-👉 (https://petodolist.vercel.app/)
-👉 Check out our Devpost page (https://devpost.com/software/pet-todo-list)
+- 👉 (https://petodolist.vercel.app/)
+- 👉 Check out our Devpost page (https://devpost.com/software/pet-todo-list)
 
 ---
 
 ## 🧠 Motivation
 
-The topic of productivity led us to thinking what could be practically useful and, at the same time, enjoying for users. A to-do list sounds too plain and straightforward, and we comtemplated about many other productivity-boosting applications, such as a white noise generator, a flowing rivr of tasks as floating blocks, and a user activity tracker. However, we wanted our widget to stay simple, handy and intuitive for users, which a todo-list always allows. Then, why not add something special to it?
-We aimed to turn everyday productivity into something playful and engage emotional reactions. By combining a task manager with a virtual pet, this widget motivates users to stay on track while be entertained by the lively responses of a cute cat.
+- The topic of productivity led us to thinking what could be practically useful and, at the same time, enjoying for users. A to-do list sounds too plain and straightforward, and we comtemplated about many other productivity-boosting applications, such as a white noise generator, a flowing rivr of tasks as floating blocks, and a user activity tracker. However, we wanted our widget to stay simple, handy and intuitive for users, which a todo-list always allows. Then, why not add something special to it?
+- We aimed to turn everyday productivity into something playful and engage emotional reactions. By combining a task manager with a virtual pet, this widget motivates users to stay on track while be entertained by the lively responses of a cute cat.
 
 ---
 
@@ -25,9 +24,9 @@ We aimed to turn everyday productivity into something playful and engage emotion
 
 - Add, complete, edit, delete and track tasks with due dates
 - 🐱 Virtual pet cat reflects your productivity
-      The cat gets hungry when you add tasks or any uncompleted tasks
-      The cat gets starved if tasks are overdue
-      Completing tasks feeds and cheers up the cat
+      - The cat gets hungry when you add tasks or any uncompleted tasks
+      - The cat gets starved if tasks are overdue
+      - Completing tasks feeds and cheers up the cat
 - ⏰ Real-time mood updates and cute visuals
 
 ---
